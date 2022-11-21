@@ -1,11 +1,11 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Building a Twitter Clone
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Building a Social Media Clone
 
 
 We're almost done! 
 
 Our last project is going to be a group effort. Everyone in the class is going
-to be working together to create a Twitter clone using React for the front-end
-and Django and PostgreSQL for the back-end. 
+to be working together to create a Twitter, Instagram, or Reddit clone using
+React for the front-end and Django and PostgreSQL for the back-end. 
 
 Much like the previous group project, one of the most challenging aspects of
 this will be communication and coordination. Do you best to be the kind of
@@ -67,14 +67,14 @@ are okay).
 
 ### Deployment
 
-- Your API must be deployed to Heroku and your front end must be deployed to
+- Your API must be deployed to Railway and your front end must be deployed to
   GitHub pages, Surge or Netlify. Applications that are not deployed will be considered
   incomplete.
 
 ## Submission
 
 Your work will be done using your personal github accounts in the
-[SEI-Axolotls](https://github.com/SEI-Axolotls) organization! A (blank)
+[SEI-Buffleheads](https://github.com/SEI-Buffleheads) organization! A (blank)
 Twitter-Clone repo has already been created for you but you can, of course,
 change the name of it once you decide on what to call your clone. 
 
@@ -145,9 +145,9 @@ for your pull request, reference the issue that your request is for.
 Czar as a
 reviewer on github, then send the Git Czar a slack with the message "PR" and a link to
 the pull request.
-- If all is good, I'll approve and merge it. If there's more work that needs to
-be done, I'll add a comment and send it back to you. 
-- Once a change is merged, I'll send a message to all y'all on slack that a new
+- If all is good, they'll approve and merge it. If there's more work that needs to
+be done, they'll add a comment and send it back to you. 
+- Once a change is merged, they'll send a message to all y'all on slack that a new
 pull request has been merged. When you see that, you should pull down the
 changes and merge the changes to he main branch into your feature branch.
 
@@ -164,6 +164,8 @@ By the end of Day 1 of this project, you need to submit an issue to this reposit
 
 1. Your project name!
 2. A list of your models and their properties
+3. A link to the **renamed** repo in the
+   [SEI-Buffleheads](https://github.com/SEI-Buffleheads) organization
 
 These can be submitted in an issue on **this repository**.
 
@@ -187,7 +189,7 @@ The front end of your application should include:
 
 Your documentation should include:
 - A `readme.md` file in the root of your repo that follows
-  [good standards of documentation](https://git.generalassemb.ly/sei-axolotls/documentation-markdown)
+  [good standards of documentation](https://git.generalassemb.ly/sei-buffleheads/documentation-markdown)
   (i.e. explanations of the technologies used, the approach taken, features,
   installation instructions, unsolved problems, etc.)
 - A `planning/` directory in the root of your repo containing a diagram mapping
@@ -210,8 +212,6 @@ Your documentation should include:
 
 - **Write pseudocode** before you write actual code. Thinking through the logic
   first helps.
-- **Write tests** that translate your pseudocode into requirements for the code
-  you need to write. Then, write just enough code to make your tests pass!
 - Don't hesitate to **write throwaway code** to solve short-term problems.
 - **Read the docs** for whatever technologies / frameworks / API's you plan to
   use. (See ["RTFM"](https://en.wikipedia.org/wiki/RTFM))
@@ -229,7 +229,7 @@ is enough to get you "unstuck" on a problem.
   can always go back in time to a previous version (so long as you're committing
   often).
 - **Deploy early; deploy often.** Deploy your work as early as possible, even if
-  you don't really have anything completed. Heroku issues **always** pop up.
+  you don't really have anything completed. Deployment issues **always** pop up.
   Don't be caught short just before the submission deadline!
 - **Name things appropriately. Comment as necessary.** Do your naming
   conventions make sense? Would another developer be able to look at your app
